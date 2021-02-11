@@ -8,7 +8,7 @@ Uses tzstats and tzkt public apis.
 
 Press this button:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/midl-dev/tezos_upgrade_analysis/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/midl-dev/tezos_baker_version_extractor/HEAD)
 
 Wait for jupyter notebook to launch.
 
