@@ -14,6 +14,6 @@ Wait for jupyter notebook to launch.
 
 Click on the notebook name (`tezos_baker_version_extractor.ipynb`).
 
-Press Ctrl+Enter twice.
+Press Ctrl+Enter three times.
 
 Wait some more... you will get a list.
